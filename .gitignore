@@ -1,0 +1,7 @@
+# Database data
+docker/mysql/data
+
+# logs
+logs
+
+.idea/
