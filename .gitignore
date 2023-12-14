@@ -5,3 +5,8 @@ docker/mysql/data
 logs
 
 .idea/
+# wpディレクトリ以下を保持せず、インフラ管理のみにする
+wp
+
+# nginx
+infra/nginx/certs
